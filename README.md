@@ -6,6 +6,8 @@ provided via IPC shared memory by Breezy Desktop and
 forwarded via UDP to OpenTrack (or directly to a game that
 features head tracking via UDP).
 
+Looking for a Rust implementation? See https://github.com/hodasemi/xr_to_opentrack_rs 👌
+
 # Start
 
 Run with `php xr_to_opentrack_poc.php`
